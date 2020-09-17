@@ -2,6 +2,7 @@
   "name": "amplify-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@aws-amplify/ui-react": "^0.2.19",
     "@testing-library/jest-dom": "^4.2.4",
