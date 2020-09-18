@@ -2,7 +2,7 @@
   "name": "amplify-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://2020-fall-adv-cloud.github.io/amplify-app/",
   "dependencies": {
     "@aws-amplify/ui-react": "^0.2.19",
     "@testing-library/jest-dom": "^4.2.4",
